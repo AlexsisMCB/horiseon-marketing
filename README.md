@@ -6,7 +6,5 @@ The challenge was to make the current web page more accessible with semantic HTM
 
 Should resemble this:
 
-01-html-css-git-homework-demo.png
-
 # Link
-To open live URL visit https://alexsismcb.github.io/horiseon-marketing/
+To open live URL visit 
